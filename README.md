@@ -14,7 +14,7 @@
       
       (Yazar: Sadi Evren ŞEKER) http://bilgisayarkavramlari.com/2011/01/26/mealy-ve-moore-makineleri-mealy-and-moore-machines 
    ```
-###  Moore Makinesini Çalıştırmak
+   ### Moore Makinesi
 
       ![Moore](https://user-images.githubusercontent.com/52732986/104110293-65933000-52e7-11eb-8fec-0eb4de65b355.PNG)
 

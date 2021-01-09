@@ -12,5 +12,5 @@
       Mealy makinelerinde ise giriş ve çıkış değerleri kenarlar (edges) üzerinde aralarına bir taksim işareti (slash) konularak
       gösterilir. Örneğin 1/0 gösterimi, girişin 1 ve çıktının 0 olduğunu ifade eder.
       
-      (Yazar: Sadi Evren ŞEKER) <a href="http://bilgisayarkavramlari.com/2011/01/26/mealy-ve-moore-makineleri-mealy-and-moore-machines">http://bilgisayarkavramlari.com/2011/01/26/mealy-ve-moore-makineleri-mealy-and-moore-machines/<a> 
+      (Yazar: Sadi Evren ŞEKER) <code><a href="http://bilgisayarkavramlari.com/2011/01/26/mealy-ve-moore-makineleri-mealy-and-moore-machines">http://bilgisayarkavramlari.com/2011/01/26/mealy-ve-moore-makineleri-mealy-and-moore-machines/</a></code> 
    ```

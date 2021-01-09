@@ -1,8 +1,8 @@
 # Mealy ve Moore Makineleri (Mealy and Moore Machines)
 ## 🚀 Get Started
 
-1. **Install dependencies.**
+1. **Moore Makinesi.**
 
-   ```Moore makinelerinde çıkış değerleri düğümlere (node) yazılırken, giriş değerleri kenarlar (edges) üzerinde gösterilir.
-      Mealy makinelerinde ise giriş ve çıkış değerleri kenarlar (edges) üzerinde aralarına bir taksim işareti (slash) konularak gösterilir. Örneğin 1/0 gösterimi, girişin 1 ve           çıktının 0 olduğunu ifade eder.
+   ```Klasik bir FSM’de bir giriş bir de çıkış bulunur (input / output). Bu değerlerin nereye yazılacağı aslında 
+      iki makine arasındaki farkı belirler.
    ```

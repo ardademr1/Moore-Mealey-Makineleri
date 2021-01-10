@@ -18,3 +18,6 @@
 
       ![Moore](https://user-images.githubusercontent.com/52732986/104110293-65933000-52e7-11eb-8fec-0eb4de65b355.PNG)
 
+    ### Mealey Makinesi
+
+      ![Mealey](https://user-images.githubusercontent.com/52732986/104119695-3f4eae00-5342-11eb-8ca3-4a10827b3ec1.PNG)
